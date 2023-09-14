@@ -1,4 +1,4 @@
-# edaDescription about the data
+#company losing its customer base
 #Education 1 'Below College' 2 'College' 3 'Bachelor' 4 'Master' 5 'Doctor'
 
 #EnvironmentSatisfaction 1 'Low' 2 'Medium' 3 'High' 4 'Very High'
